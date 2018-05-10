@@ -1,0 +1,6 @@
+-r is set
+-v is set
+rabbit
+mouse234
+dog
+Done
